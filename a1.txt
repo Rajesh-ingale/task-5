@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hii from master branch
+=======
+hii from b-1
+>>>>>>> branch-1
